@@ -6,7 +6,7 @@ fi
 mkdir output_ios
 
 # 编译库路径
-SOURCE_DIR_IOS="secp256k1_ios"
+SOURCE_DIR_IOS="secp256k1"
 cd $SOURCE_DIR_IOS
 
 # 内部输出路径
